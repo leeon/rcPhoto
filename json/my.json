@@ -5,11 +5,11 @@
         "headline":"RC 時間志",
         "type":"default",
         "startDate":"2012,7,16",
-        "text":"2013<br>花語",
+        "text":"這裏是我拍攝的一些照片。<br>2013<br>花語",
         "asset":
         {
             "media":"image/profile.jpg",
-            "credit":"LEEON",
+            "credit":"<a href='http://octsky.com'>LEEON</a>",
             "caption":""
         },
         "date": [
@@ -35,7 +35,78 @@
                     "credit":"『時間志2013』",
                     "caption":""
                 }
-            }
+            },
+
+            {
+                "startDate":"2013,5,21",
+                "headline":"花裙",
+                "text":"路過這個花叢的時候，想起了剛到大一快結束的那個夏天，一條熟悉的裙子。<br><br>@哈爾濱植物園",
+                "asset":
+                {
+                    "media":"http://www.flickr.com/photos/octobershiner/8812288109/",
+                    "credit":"『花語』",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"2013,5,21",
+                "headline":"螢火之森",
+                "text":"不太起眼的綠葉，想起Susie和我說過的螢火之森，每個人都有自己的一片藏在心裡的森林吧。<br><br>@哈爾濱植物園",
+                "asset":
+                {
+                    "media":"http://www.flickr.com/photos/octobershiner/8822942758/in/photostream/",
+                    "credit":"『花語』",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"2013,5,21",
+                "headline":"荷包牡丹",
+                "text":"小時候看到做這種形狀的花，原來還有這麽美的名字。<br><br>@哈爾濱植物園",
+                "asset":
+                {
+                    "media":"http://www.flickr.com/photos/octobershiner/8822742886/in/photostream/",
+                    "credit":"『花語』",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"2013,5,21",
+                "headline":"紅",
+                "text":"那天第一次看見鬱金香，天上正下著下雨，紅的越發漂亮。<br><br>@哈爾濱植物園",
+                "asset":
+                {
+                    "media":"http://www.flickr.com/photos/octobershiner/8813260648/in/photostream/",
+                    "credit":"『花語』",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,5,21",
+                "headline":"LOVE",
+                "text":"你看到這樣的花，會想到誰呢？。<br><br>@哈爾濱植物園",
+                "asset":
+                {
+                    "media":"http://www.flickr.com/photos/octobershiner/8802674005/in/photostream/",
+                    "credit":"『花語』",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,5,21",
+                "headline":"花海",
+                "text":"五月是鬱金香的花海，深淺變換，像浪花。<br><br>@哈爾濱植物園",
+                "asset":
+                {
+                    "media":"http://www.flickr.com/photos/octobershiner/8802673137/",
+                    "credit":"『花語』",
+                    "caption":""
+                }
+            }            
+
         ]
     }
 }
