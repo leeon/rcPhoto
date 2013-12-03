@@ -1,0 +1,22 @@
+#rc-timeline{
+    margin-top: 40px;
+}
+
+footer{
+    position:absolute;
+    bottom: 2px;
+    width: 100%;
+    text-align: center;
+}
+
+footer .info{
+    color: #555555;
+}
+
+a{
+    text-decoration: none;
+}
+
+a :hover{
+    color: #ffffff;
+}

@@ -1,0 +1,41 @@
+
+{
+    "timeline":
+    {
+        "headline":"RC 時間志",
+        "type":"default",
+        "startDate":"2012,7,16",
+        "text":"2013<br>花語",
+        "asset":
+        {
+            "media":"image/profile.jpg",
+            "credit":"LEEON",
+            "caption":""
+        },
+        "date": [
+            {
+                "startDate":"2013,11,13",
+                "headline":"飛翔",
+                "text":"哈爾濱的天空中常常出現這樣的飛機，俯衝是一種什麼樣的感覺呢？<br><br>@哈爾濱工業大學",
+                "asset":
+                {
+                    "media":"http://www.flickr.com/photos/octobershiner/11011531324/",
+                    "credit":"『時間志2013』",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"2013,11,13",
+                "headline":"軌跡",
+                "text":"飛機留下的痕跡，被風吹散，像時間。<br><br>@哈爾濱工業大學",
+                "asset":
+                {
+                    "media":"http://www.flickr.com/photos/octobershiner/11011779516/",
+                    "credit":"『時間志2013』",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
